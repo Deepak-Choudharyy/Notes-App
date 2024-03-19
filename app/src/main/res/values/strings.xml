@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="default_web_client_id">365532449442-n0jc1bmq3kircjn5rgej2h30skkqtlum.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">695908002708133</string>
+    <string name="fb_login_protocol_scheme">fb695908002708133</string>
+    <string name="facebook_client_token">rLpKWwAK2gYhIbmpDj6e1PfLF8o=</string>
+</resources>

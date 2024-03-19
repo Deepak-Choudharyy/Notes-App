@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365532449442",
+    "project_id": "signiin-35a1f",
+    "storage_bucket": "signiin-35a1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365532449442:android:c076a6e1f54134f4f3a5fb",
+        "android_client_info": {
+          "package_name": "dk.deepak.signiin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365532449442-n0jc1bmq3kircjn5rgej2h30skkqtlum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.deepak.signiin",
+            "certificate_hash": "a69db4e0bba2a4035fa97ac1b17edd96dfe4a52d"
+          }
+        },
+        {
+          "client_id": "365532449442-f9q1pgm82db2qopl1g107ssoruo0d65u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB41p0lUv_9lM8AhwIs9B0koca-pWaVh2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365532449442-f9q1pgm82db2qopl1g107ssoruo0d65u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
